@@ -12,7 +12,7 @@ python3 mac-changer.py --help   #To see help message.
 
 # If it get error
 
-please run python2 or python
+please run with python2 or python
 
 --------------------------------------------------SCRIPT BY #SHADOWLEAKS--------------------------------------------------------------
 
