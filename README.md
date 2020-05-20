@@ -1,4 +1,4 @@
-----------------------------------------------------# mac-changer-------------------------------------------------------------------------
+----------------------------------------------------# mac-changer--------------------------------------------------------------------
 This script will change your mac address to specific mac address you given. The script is written in python.
 
 cd mac-changer #move to mac-changer dirctories.
@@ -11,5 +11,5 @@ python3 mac-changer.py -i [interface name] -m [mac address]  #interface such as 
 python3 mac-changer.py --help   #To see help message.
 
 
---------------------------------------------------SCRIPT BY #SHADOWLEAKS------------------------------------------------------------------
+--------------------------------------------------SCRIPT BY #SHADOWLEAKS--------------------------------------------------------------
 
