@@ -10,6 +10,9 @@ python3 mac-changer.py -i [interface name] -m [mac address]  #interface such as 
 
 python3 mac-changer.py --help   #To see help message.
 
+# If it get error
+
+please run python2 or python
 
 --------------------------------------------------SCRIPT BY #SHADOWLEAKS--------------------------------------------------------------
 
